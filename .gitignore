@@ -1,0 +1,92 @@
+# MATLAB/Simulink specific
+*.asv
+*.autosave
+*.slxc
+*.slx.r*
+*.slx.original
+*.slxp
+*.mdlp
+*.mdl.r*
+*.mexa64
+*.mexw64
+*.mexmaci64
+slprj/
+sccprj/
+codegen/
+*.mex*
+*.tlc
+*.tmw
+*.mat
+*.fig
+
+# MATLAB generated folders
+html/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+*_rtw/
+
+# Simulink cache files
+*.slxc
+*.mdlc
+*.c.mi
+*.m.mi
+
+# Simulation results and data
+*.csv
+*.dat
+results/
+simout/
+
+# Simulink Code Generation folders
+slprj/
+sccprj/
+mdl_info.mat
+*_sfun.mexw64
+*_sfun_debug.mexw64
+
+# MATLAB preferences and history
+.matlab/
+
+# Compiled MEX binaries
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink autosave extension
+*.autosave
+
+# Windows default autosave extension
+*.asv
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Common editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Simulink Report Generator files
+*_rpt/
+
+# Log files
+*.log
+
